@@ -4,7 +4,7 @@
     "start": "node ."
   },
   "dependencies": {
-    "@api/whatsapp": "github:hostinger-bot/baileys",
+    "@api/whatsapp": "github:BOTCAHX/Baileys",
     "express": "latest",
     "qrcode-terminal": "latest"
   }
