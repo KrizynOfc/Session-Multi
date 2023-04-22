@@ -1,1 +1,4 @@
-*.skb
+
+# Dependency directories
+.git/
+node_modules/
